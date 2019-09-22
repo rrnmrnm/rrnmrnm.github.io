@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Add to Cydia"
+title                    : "POLLAPO's Repo"
 title_separator          : "-"
 subtitle                 : #""
 name                     : "POLLAPO"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "POLLAPO's Repo"
+  name             : "This is Cydia Repo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is Cydia Repo"
+  bio              : ""
   location         : "@snoooous"
   email            :
   links:
