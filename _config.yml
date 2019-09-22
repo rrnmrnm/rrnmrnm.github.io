@@ -153,6 +153,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: Add to Cydia
+      icon: ""
+      url: cydia://url/https://cydia.saurik.com/api/share#?source=https://rrnmrnm.github.io
 
 
 # Reading Files
