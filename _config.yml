@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "POLLAPO's Repo"
+title                    : "Add to Cydia"
 title_separator          : "-"
-subtitle                 : "This is Cydia Repo"
+subtitle                 : #""
 name                     : "POLLAPO"
 description              : "Tweaks / Themes"
 url                      : "https://rrnmrnm.github.io"
