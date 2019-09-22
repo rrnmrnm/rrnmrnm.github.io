@@ -1,6 +1,6 @@
 ---
 title: "How to Add POLLAPO's Repo"
-date: 2017-10-20 08:26:28 -0400
+date: 2019-09-22 17:40:28 -0400
 categories: Helm
 ---
 
